@@ -1,4 +1,4 @@
-# sandbox
+# bootstrap
 
 > A Vue.js project
 
